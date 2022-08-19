@@ -1,7 +1,7 @@
 aniso8601==9.0.1
 attrs==21.2.0
 click==8.0.3
-Flask==2.0.2
+Flask~=2.2.2
 flask-restx==0.5.1
 Flask-SQLAlchemy==2.5.1
 greenlet==1.1.2
@@ -19,3 +19,5 @@ SQLAlchemy==1.4.26
 typing-extensions==3.10.0.2
 Werkzeug==2.0.2
 zipp==3.6.0
+
+pytest~=7.1.2
