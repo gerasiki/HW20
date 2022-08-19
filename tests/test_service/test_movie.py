@@ -1,6 +1,6 @@
-import pytest
-
 from unittest.mock import MagicMock
+
+import pytest
 
 from dao.model.movie import Movie
 from dao.movie import MovieDAO
